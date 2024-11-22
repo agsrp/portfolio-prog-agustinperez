@@ -1,0 +1,19 @@
+footer a{
+    color: #e9ebf4;
+    font-size: 35px;
+    margin: 10px;
+}
+
+footer p{
+    font-style: italic;
+    color: #84b3e6;
+}
+
+footer{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

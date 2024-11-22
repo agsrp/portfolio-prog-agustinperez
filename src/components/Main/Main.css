@@ -1,0 +1,41 @@
+.mainCont{
+    width: 100%;
+    height: 95vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 75px;
+}
+
+.titMain{
+    margin-top: 170px;
+}
+
+.titMain img{
+    width: 250px;
+}
+
+.mainCont h1{
+    font-weight: 800;
+    font-size:65px;
+    margin: 0;
+    color: #e9ebf4;
+}
+
+.mainCont p{
+    font-size: 18px;
+    font-style: italic;
+    color: #e9ebf4;
+}
+
+.btnRedes{
+    margin: 50px;
+}
+
+.btnRedes a{
+    color: #e9ebf4;
+    font-size: 35px;
+    margin: 10px;
+}
